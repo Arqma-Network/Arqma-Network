@@ -70,8 +70,8 @@ The software is non-custodial, holds a 25-word seed that is shown once at creati
 | [Arqma Wallet and Windows Defender](https://github.com/Arqma-Network/desktop-installation/blob/main/arqma-wallet-windows-defender.md) | SmartScreen and Defender warnings on the installer, and the hash comparison that settles which one you are seeing. |
 | [Arqma Wallet address format](https://github.com/Arqma-Network/payments-and-transfer-fixes/blob/main/arqma-wallet-address-format.md) | Why an ARQ address is 95 characters, what the prefix tells you, and where a mistyped address is caught. |
 | [sending ARQ to an exchange](https://github.com/Arqma-Network/payments-and-transfer-fixes/blob/main/arqma-wallet-send-to-exchange.md) | Moving ARQ to a venue that adds its own confirmation rule, without a memo or a lost deposit. |
-| [Arqma full node guide](https://github.com/Arqma-Network/network-operator-runbook/blob/main/arqma-wallet-full-node.md) | The disk, memory and reachability a local arqmad needs before a wallet can point at it. |
-| [Arqma service node setup](https://github.com/Arqma-Network/network-operator-runbook/blob/main/arqma-wallet-service-node-setup.md) | A runbook for registering, funding and monitoring a service node on a machine you keep reachable. |
+| [Arqma full node guide](https://github.com/Arqma-Network/desktop-installation/blob/main/arqma-wallet-full-node.md) | The disk, memory and reachability a local arqmad needs before a wallet can point at it. |
+| [Arqma service node setup](https://github.com/Arqma-Network/desktop-installation/blob/main/arqma-wallet-service-node-setup.md) | A runbook for registering, funding and monitoring a service node on a machine you keep reachable. |
 
 </div>
 
